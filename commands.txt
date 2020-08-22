@@ -1,0 +1,13 @@
+initialize git in a folder> git init
+
+view status> git status
+
+add a file to git> git add filename
+
+for commit a file> git commit -m "description"
+
+for get log(commit id)> git log
+
+for go back any previous or current commits> git checkout commitID
+
+sample text
