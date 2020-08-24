@@ -10,4 +10,6 @@ for get log(commit id)> git log
 
 for go back any previous or current commits> git checkout commitID
 
+create new branch> git branch branchname
+
 sample text
