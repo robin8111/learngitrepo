@@ -10,8 +10,7 @@ for get log(commit id)> git log
 
 for go back any previous or current commits> git checkout commitID
 
-create new branch> git branch branchname
+create new branch> git branch branch_name
 
-sample text
+merge to branch> eth branchilek aano merge cheyyane aa branchilek aadhyam varanam, ennit command-> git merge branch_name
 
-sample text 2
